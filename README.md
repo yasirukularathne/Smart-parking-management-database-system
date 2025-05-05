@@ -1,7 +1,7 @@
 🚗 Smart Parking Management Database System
 
 📌 Overview:
-As part of our 4th-semester database module, my team Chathura Dilshantha, Yasiru Kularathne, and I—collaboratively designed and implemented a relational database system for smart parking management. We followed a systematic approach, starting from requirement analysis to database tuning, delivering a robust and efficient solution.
+As part of our 4th-semester database module, my team Chathura Dilshantha, Dinuth Dilruksha, and I—collaboratively designed and implemented a relational database system for smart parking management. We followed a systematic approach, starting from requirement analysis to database tuning, delivering a robust and efficient solution.
 
 👥 Key Contributions:
  1. Requirement Analysis:
